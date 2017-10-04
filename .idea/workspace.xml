@@ -2,43 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e8dbbb4-cfef-4bfb-9550-cebe01207510" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/TasksFromTheBook/ru/vsu/but/project/Books.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/TasksFromTheBook/ru/vsu/but/project/BooksTestDrive.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/TasksFromTheBook/ru/vsu/but/project/Dog.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/TasksFromTheBook/ru/vsu/but/project/DrumKit.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/TasksFromTheBook/ru/vsu/but/project/DrumKitTestDrive.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/TasksFromTheBook/ru/vsu/but/project/Echo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/TasksFromTheBook/ru/vsu/but/project/EchoTestDrive.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/TasksFromTheBook/ru/vsu/but/project/GameLauncher.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/TasksFromTheBook/ru/vsu/but/project/GuessGame.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/TasksFromTheBook/ru/vsu/but/project/Hobbits.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/TasksFromTheBook/ru/vsu/but/project/Main.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/TasksFromTheBook/ru/vsu/but/project/Player.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/TasksFromTheBook/ru/vsu/but/project/TestArrays.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/TasksFromTheBook/ru/vsu/but/project/Triangle.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/description.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/project-template.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TasksFromTheBook.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/vsu/but/project/Books.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/vsu/but/project/BooksTestDrive.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/vsu/but/project/Dog.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/vsu/but/project/DrumKit.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/vsu/but/project/DrumKitTestDrive.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/vsu/but/project/Echo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/vsu/but/project/EchoTestDrive.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/vsu/but/project/GameLauncher.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/vsu/but/project/GuessGame.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/vsu/but/project/HeapQuiz.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/vsu/but/project/Hobbits.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/vsu/but/project/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/vsu/but/project/Player.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/vsu/but/project/TestArrays.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/vsu/but/project/Triangle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
