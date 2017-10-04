@@ -1,0 +1,1 @@
+package ru.vsu.but.project;class Books {    String title;    String author;}

@@ -1,0 +1,1 @@
+package ru.vsu.but.project;public class Player {    int number = 0;    // генерация числа игроком    public void guess() {        number = (int) (Math.random() * 10);        System.out.println("I think, it's  " + number);    }}
