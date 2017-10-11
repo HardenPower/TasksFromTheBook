@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e8dbbb4-cfef-4bfb-9550-cebe01207510" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/TasksFromTheBook/ru/vsu/but/project/DogTestDrive.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/TasksFromTheBook/ru/vsu/but/project/HeapQuiz.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/vsu/but/project/ElectricGuitar.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/TasksFromTheBook/ru/vsu/but/project/Dog.class" afterPath="$PROJECT_DIR$/out/production/TasksFromTheBook/ru/vsu/but/project/Dog.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/vsu/but/project/GoodDog.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/vsu/but/project/Dog.java" afterPath="$PROJECT_DIR$/src/ru/vsu/but/project/Dog.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/vsu/but/project/HeapQuiz.java" afterPath="$PROJECT_DIR$/src/ru/vsu/but/project/HeapQuiz.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,16 +21,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
               <caret line="3" column="37" lean-forward="false" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Player.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/vsu/but/project/Player.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -106,17 +92,17 @@
       <file leaf-file-name="Dog.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ru/vsu/but/project/Dog.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="6" column="14" lean-forward="false" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+            <state relative-caret-position="121">
+              <caret line="26" column="17" lean-forward="true" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
               <folding>
-                <marker date="1507201048410" expanded="false" signature="1494:1505" ph=" { " />
-                <marker date="1507201048410" expanded="false" signature="1546:1552" ph=" }" />
+                <marker date="1507748666631" expanded="false" signature="1493:1504" ph=" { " />
+                <marker date="1507748666631" expanded="false" signature="1545:1551" ph=" }" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ElectricGuitar.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ElectricGuitar.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ru/vsu/but/project/ElectricGuitar.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
@@ -134,6 +120,21 @@
                 <element signature="e#575#576#0" expanded="true" />
                 <element signature="e#622#623#0" expanded="true" />
                 <element signature="e#662#663#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GoodDog.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ru/vsu/but/project/GoodDog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="369">
+              <caret line="29" column="21" lean-forward="false" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+              <folding>
+                <element signature="e#100#101#0" expanded="true" />
+                <element signature="e#127#128#0" expanded="true" />
+                <element signature="e#161#162#0" expanded="true" />
+                <element signature="e#185#186#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -180,8 +181,9 @@
         <option value="$PROJECT_DIR$/src/ru/vsu/but/project/Triangle.java" />
         <option value="$PROJECT_DIR$/src/ru/vsu/but/project/HeadQuiz.java" />
         <option value="$PROJECT_DIR$/src/ru/vsu/but/project/HeapQuiz.java" />
-        <option value="$PROJECT_DIR$/src/ru/vsu/but/project/Dog.java" />
         <option value="$PROJECT_DIR$/src/ru/vsu/but/project/ElectricGuitar.java" />
+        <option value="$PROJECT_DIR$/src/ru/vsu/but/project/Dog.java" />
+        <option value="$PROJECT_DIR$/src/ru/vsu/but/project/GoodDog.java" />
       </list>
     </option>
   </component>
@@ -235,6 +237,13 @@
               <item name="project" type="462c0819:PsiDirectoryNode" />
               <item name="Dog.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
+            <path>
+              <item name="TasksFromTheBook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TasksFromTheBook" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="GoodDog.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -257,15 +266,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DogTestDrive">
-    <configuration name="BooksTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.GoodDogTestDrive">
+    <configuration name="DogTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="ru.vsu.but.project.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="ru.vsu.but.project.BooksTestDrive" />
+      <option name="MAIN_CLASS_NAME" value="ru.vsu.but.project.DogTestDrive" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -277,14 +286,14 @@
       <module name="TasksFromTheBook" />
       <envs />
     </configuration>
-    <configuration name="DogTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="GoodDogTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="ru.vsu.but.project.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="ru.vsu.but.project.DogTestDrive" />
+      <option name="MAIN_CLASS_NAME" value="ru.vsu.but.project.GoodDogTestDrive" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -369,19 +378,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.BooksTestDrive" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Hobbits" />
-      <item index="2" class="java.lang.String" itemvalue="Application.TestArrays" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Triangle" />
-      <item index="4" class="java.lang.String" itemvalue="Application.DogTestDrive" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Hobbits" />
+      <item index="1" class="java.lang.String" itemvalue="Application.TestArrays" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Triangle" />
+      <item index="3" class="java.lang.String" itemvalue="Application.DogTestDrive" />
+      <item index="4" class="java.lang.String" itemvalue="Application.GoodDogTestDrive" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.DogTestDrive" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Triangle" />
-        <item index="2" class="java.lang.String" itemvalue="Application.TestArrays" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Hobbits" />
-        <item index="4" class="java.lang.String" itemvalue="Application.BooksTestDrive" />
+        <item index="0" class="java.lang.String" itemvalue="Application.GoodDogTestDrive" />
+        <item index="1" class="java.lang.String" itemvalue="Application.DogTestDrive" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Triangle" />
+        <item index="3" class="java.lang.String" itemvalue="Application.TestArrays" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Hobbits" />
       </list>
     </recent_temporary>
   </component>
@@ -406,6 +415,7 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32733223" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -427,7 +437,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -512,8 +521,8 @@
         <state relative-caret-position="90">
           <caret line="6" column="14" lean-forward="false" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
           <folding>
-            <marker date="1507201048410" expanded="false" signature="1494:1505" ph=" { " />
-            <marker date="1507201048410" expanded="false" signature="1546:1552" ph=" }" />
+            <marker date="1507748666631" expanded="false" signature="1493:1504" ph=" { " />
+            <marker date="1507748666631" expanded="false" signature="1545:1551" ph=" }" />
           </folding>
         </state>
       </provider>
@@ -656,17 +665,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/vsu/but/project/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="6" column="14" lean-forward="false" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-          <folding>
-            <marker date="1507201048410" expanded="false" signature="1494:1505" ph=" { " />
-            <marker date="1507201048410" expanded="false" signature="1546:1552" ph=" }" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/vsu/but/project/ElectricGuitar.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -684,6 +682,30 @@
             <element signature="e#575#576#0" expanded="true" />
             <element signature="e#622#623#0" expanded="true" />
             <element signature="e#662#663#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/vsu/but/project/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="26" column="17" lean-forward="true" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+          <folding>
+            <marker date="1507748666631" expanded="false" signature="1493:1504" ph=" { " />
+            <marker date="1507748666631" expanded="false" signature="1545:1551" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/vsu/but/project/GoodDog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="29" column="21" lean-forward="false" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+          <folding>
+            <element signature="e#100#101#0" expanded="true" />
+            <element signature="e#127#128#0" expanded="true" />
+            <element signature="e#161#162#0" expanded="true" />
+            <element signature="e#185#186#0" expanded="true" />
           </folding>
         </state>
       </provider>
