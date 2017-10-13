@@ -1,0 +1,1 @@
+package ru.vsu.but.project.GuessNumber3Players;import ru.vsu.but.project.GuessNumber3Players.GuessGame;public class GameLauncher {    public static void main(String[] args) {        GuessGame game = new GuessGame();        game.startGame();    }}
