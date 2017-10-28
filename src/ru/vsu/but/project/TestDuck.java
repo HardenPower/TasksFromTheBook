@@ -1,0 +1,1 @@
+package ru.vsu.but.project;public class TestDuck {}
